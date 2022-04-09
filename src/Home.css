@@ -1,0 +1,41 @@
+/* ---HOME----*/
+.home {
+    /* border: 2px solid green; */
+    display: flex;
+    float: left;
+    max-width: 90%;
+    margin-left: 130%;
+    /* margin-right: 10%; */
+    margin-top: 50%;
+}
+
+
+.mini-destination-home {
+    border: 2px solid blue;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+
+/* ---bouton Explpore----*/
+
+.btn-explore-home {
+    /* border: 2px solid red; */
+    display: inline-block;
+    /* margin-left: 60%;
+    padding-top: 20%; */
+}
+
+
+.btn-explore {
+    background-color: white;
+    color: black;
+    font-size: 50px;
+    border: 1px gray;
+    border-radius: 200px;
+}
+
+.btn-explore:hover {
+    background-color: white;
+    color: #000;
+    box-shadow: 3px 8px #888;
+}
