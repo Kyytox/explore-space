@@ -22,3 +22,26 @@
   vertical-align: middle;
   padding-right: 20px;
 }
+
+
+
+
+
+.div-btn-home {
+  /* border: 2px solid red; */
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+
+.btn-home {
+  background-color: navy;
+  color: white;
+  font-size: 18px;
+  border-radius: 10px;
+  border-color: white;
+}
+
+.btn-home:hover {
+  background-color: mediumblue;
+}

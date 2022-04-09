@@ -18,7 +18,7 @@ function Home2() {
 
     return (
         <>
-            <div className='div-btn-home-2'>
+            <div className='div-btn-home'>
                 <NavLink exact="true" to="/">
                     <button className='btn-home' >Home 1.0</button>
                 </NavLink>
@@ -31,7 +31,7 @@ function Home2() {
                         onChange={inputHandler}
                         variant="outlined"
                         fullWidth
-                        label="Search"
+                        label=""
                     />
                 </div>
                 <div className='div-list-search'>
